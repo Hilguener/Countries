@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="countries">Countries</string>
+    <string name="status">Status: %1$s</string>
+    <string name="borders">Borders: %1$s</string>
+    <string name="demonyms">Demonyms: %1$s</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_borders_available">No borders available</string>
+    <string name="coat_of_arms">"Coat of Arms: "</string>
+    <string name="capital">Capital: %1$s</string>
+    <string name="area_m">Area: %1$sm²</string>
+    <string name="population">Population: %1$s</string>
+    <string name="subregion">Subregion: %1$s</string>
+    <string name="fifa">Fifa: %1$s</string>
+    <string name="region">Region: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="morevert">MoreVert</string>
+    <string name="search">Search</string>
+    <string name="close">Close</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="refresh">Refresh</string>
+</resources>
