@@ -23,6 +23,8 @@ Informações Detalhadas: Veja informações detalhadas sobre diversos países, 
 
 - Material 3: Utilizado para implementar os princípios de design Material, garantindo uma interface do usuário coesa e intuitiva.
 
+- Formatação de Código com KtLint: O código fonte deste projeto foi formatado automaticamente usando o KtLint, garantindo consistência e seguindo as melhores práticas de codificação em Kotlin.
+
 ## Como Executar o Projeto
 - Clone este repositório em sua máquina local.
 - Abra o projeto em seu ambiente de desenvolvimento preferido (Android Studio, IntelliJ IDEA, etc.).
